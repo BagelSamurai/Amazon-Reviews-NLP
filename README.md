@@ -20,7 +20,7 @@ The project allows you to run various search methods using the following input c
 python booleansearchhelp.py --aspect1 
 Of course. Here is the raw Markdown code for the README file. You can copy and paste this into a `README.md` file in your repository.
 
-```markdown
+
 # Amazon Reviews NLP: Aspect-Based Opinion Analysis
 
 This is a semester-long research project for the Natural Language Processing course at the University of Houston.
@@ -35,11 +35,11 @@ The project implements a boolean search system for aspect-based opinion analysis
 
 To ensure all necessary libraries are installed, use the provided `requirements.txt` file. Run the following command in your terminal:
 
-```
+
 
 pip install -r requirements.txt
 
-```
+
 
 This will install all required dependencies for the project.
 
@@ -47,7 +47,7 @@ This will install all required dependencies for the project.
 
 The project allows you to run various search methods using the following input command. Replace `-aspect1`, `-aspect2`, `-opinion`, and `-method` with the desired values.
 
-```
+
 
 python booleansearchhelp.py --aspect1 \<aspect1\> --aspect2 \<aspect2\> --opinion \<opinion\> --method \<method\>
 
