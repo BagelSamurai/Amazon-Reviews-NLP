@@ -51,7 +51,6 @@ The project allows you to run various search methods using the following input c
 
 python booleansearchhelp.py --aspect1 \<aspect1\> --aspect2 \<aspect2\> --opinion \<opinion\> --method \<method\>
 
-```
 
 ## 3. Implementation Details
 
@@ -197,4 +196,4 @@ The findings underscore the importance of advanced opinion mining and semantic a
 3.  **GeeksforGeeks, N-gram Language Modelling with NLTK:** [Article Link](https://www.google.com/search?q=https://www.geeksforgeeks.org/n-gram-language-modelling-with-nltk/)
 4.  **Machine Learning Geek, Latent Semantic Indexing Using Scikit-Learn:** [Article Link](https://machinelearninggeek.com/latent-semantic-indexing-using-scikit-learn/)
 5.  **Claude (AI Assistant):** Suggestions on evaluation metrics and code snippets for the project.
-```
+
