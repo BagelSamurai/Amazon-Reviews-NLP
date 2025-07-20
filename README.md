@@ -11,29 +11,6 @@ The project implements a boolean search system for aspect-based opinion analysis
 ### 2.1 Installing Python Libraries
 
 To ensure all necessary libraries are installed, use the provided `requirements.txt` file. Run the following command in your terminal:
-pip install -r requirements.txt
-This will install all required dependencies for the project.
-
-### 2.2 Running the Code
-
-The project allows you to run various search methods using the following input command. Replace `-aspect1`, `-aspect2`, `-opinion`, and `-method` with the desired values.
-python booleansearchhelp.py --aspect1 
-Of course. Here is the raw Markdown code for the README file. You can copy and paste this into a `README.md` file in your repository.
-
-
-# Amazon Reviews NLP: Aspect-Based Opinion Analysis
-
-This is a semester-long research project for the Natural Language Processing course at the University of Houston.
-
-## 1. Introduction
-
-The project implements a boolean search system for aspect-based opinion analysis of Amazon product reviews. The goal is to retrieve relevant reviews that match specific aspect pairs and opinions. The implementation includes three baseline boolean methods and three advanced methods that improve search relevance through rating validation, sentence-level analysis, and LSA-based semantic matching.
-
-## 2. Getting Started
-
-### 2.1 Installing Python Libraries
-
-To ensure all necessary libraries are installed, use the provided `requirements.txt` file. Run the following command in your terminal:
 
 
 
